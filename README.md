@@ -2,16 +2,21 @@
   <img src="./assets/logo.svg" width="100" />
 </p>
 <p align="center">
-    <h1 align="center">Webster Backend</h1>
+    <h1 align="center">Webster API</h1>
+</p>
+<p align="center">
+  <a href="https://webster.mkloz.com">🌐 Website</a> |
+  <a href="https://api.mkloz.com/webster/api/docs">🛠️ API Docs</a> |
+  <a href="https://github.com/mkloz/webster-frontend">💻 Frontend Code</a>
 </p>
 <p align="center">
     <em>Design Tool API</em>
 </p>
 <p align="center">
- <img src="https://img.shields.io/github/license/maxkrv/webster-be?style=flat&color=0080ff" alt="license">
- <img src="https://img.shields.io/github/last-commit/maxkrv/webster-be?style=flat&logo=git&logoColor=white&color=0080ff" alt="last-commit">
- <img src="https://img.shields.io/github/languages/top/maxkrv/webster-be?style=flat&color=0080ff" alt="repo-top-language">
- <img src="https://img.shields.io/github/languages/count/maxkrv/webster-be?style=flat&color=0080ff" alt="repo-language-count">
+ <img src="https://img.shields.io/github/license/mkloz/webster-backend?style=flat&color=0080ff" alt="license">
+ <img src="https://img.shields.io/github/last-commit/mkloz/webster-backend?style=flat&logo=git&logoColor=white&color=0080ff" alt="last-commit">
+ <img src="https://img.shields.io/github/languages/top/mkloz/webster-backend?style=flat&color=0080ff" alt="repo-top-language">
+ <img src="https://img.shields.io/github/languages/count/mkloz/webster-backend?style=flat&color=0080ff" alt="repo-language-count">
 <p>
 <p align="center">
   <em>Developed with the software and tools below.</em>
@@ -31,7 +36,6 @@
  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL">
  <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=flat&logo=redis&logoColor=white" alt="Redis">
  <img src="https://img.shields.io/badge/JWT-000000?style=flat&logo=JSON%20web%20tokens&logoColor=white" alt="JWT">
- <img src="https://img.shields.io/badge/Stripe-008CDD?style=flat&logo=stripe&logoColor=white" alt="Stripe">
 </p>
 <hr>
 
@@ -87,7 +91,7 @@ The database schema is defined using Prisma and includes the following main enti
 1. Clone the Webster Backend repository:
 
 ```sh
-git clone https://github.com/maxkrv/webster-be.git
+git clone https://github.com/mkloz/webster-backend.git
 ```
 
 2. Change to the project directory:
@@ -208,7 +212,7 @@ Contributions are welcome! Here are several ways you can contribute:
 2. **Clone Locally**: Clone the forked repository to your local machine using a Git client.
 
 ```shellscript
-git clone https://github.com/maxkrv/webster-be
+git clone https://github.com/mkloz/webster-backend.git
 ```
 
 3. **Create a New Branch**: Always work on a new branch, giving it a descriptive name.
@@ -240,4 +244,4 @@ Once your PR is reviewed and approved, it will be merged into the main branch.
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/maxkrv/webster-be/blob/main/LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/mkloz/webster-backend/blob/main/LICENSE) file for details.
